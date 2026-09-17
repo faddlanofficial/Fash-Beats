@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.fashbeats.music" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<name>Fash Beats</name>
+<description>App built with APK Builder Pro</description>
+<content src="index.html" />
+<preference name="android-minSdkVersion" value="24" />
+<preference name="android-targetSdkVersion" value="34" />
+<allow-navigation href="*" />
+<allow-intent href="http://*/*" />
+<allow-intent href="https://*/*" />
+<platform name="android">
+<icon src="res/icon.png" />
+</platform>
+</widget>
